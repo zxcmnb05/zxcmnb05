@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://zxcmnb05.github.io/)](https://zxcmnb05.github.io/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022706899497)](https://www.facebook.com/profile.php?id=100022706899497)
