@@ -1,4 +1,4 @@
-### Hi there 👋
+### 대구소프트웨어고등학교 재학중인 류한규입니다.
 
 <!--
 **zxcmnb05/zxcmnb05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
