@@ -1,28 +1,11 @@
-### 대구소프트웨어고등학교 재학중인 류한규입니다.
+<h1 align="center">Hi 👋, I'm Han Gyu Ryu</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zxcmnb05&label=Profile%20views&color=0e75b6&style=flat" alt="zxcmnb05" /> </p>
 
-<!--
-**zxcmnb05/zxcmnb05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxcmnb05&show_icons=true&locale=en&layout=compact" alt="zxcmnb05" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zxcmnb05&show_icons=true&locale=en" alt="zxcmnb05" /></p>
 
-<div align=center>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fzxcmnb05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zxcmnb05)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcmnb05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://zxcmnb05.github.io/)](https://zxcmnb05.github.io/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022706899497)](https://www.facebook.com/profile.php?id=100022706899497)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxcmnb05&" alt="zxcmnb05" /></p>
